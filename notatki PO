@@ -18,3 +18,14 @@ class Dog{
 Pies ma oddać nam pilke, ktora posiada.
 Nazwenictwo klas-klasa nie powinna konczc\yc sie na "er". Popychamy wtedy klasę w kierunku programowania proceduarlnego np.
 "sorter","parser" - klasa byla rzecza, ktorej jedynym zadaniem jest przechowywanie danych
+komentarz: //
+#include<iostream>
+int main(){
+}
+odradza "using namespace std;", bo ludzie nie wiedza po co to jest w kodzie
+zamiast tego: std::cout<<"Hello world :)"<<std::endl;
+Warto dodac return 0;
+int - typ, ktory zwraca nasza funkcja
+Zakaz zmiennych w jezyku polskim "bo wyglada to strasznie i jest to bardzo zle" :clown_emoji:
+Konwencja Google jak pisać kod
+Google C++ style guide google.github.io
