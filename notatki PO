@@ -1,0 +1,20 @@
+Pies - klasa
+Jakie cechy ma pies?
+Projektowanie obiektowe to odzwierciedlenie naszego świata
+Czym jest obiekt? - Kim jest obiekt.
+Kod wtedy będzie nam bliższy i będziemy się bardziej czuli za niego odpowiedzialni
+Dog loyalFrirend;
+loyalFriend.breed= "Akita Inu";
+loyalFriend.name= "Hachiko";
+OOP - responsability.
+A responsibility is a service that an object must provide.
+Message-method. Prośba do obiektu, by wykonał jedną z jego metod.
+Klasa decyduje jakie metody obiekt będzie obsługiwał.
+class Dog{
+    Ball giveBall(Ball ball){
+    return ball;
+  }
+};
+Pies ma oddać nam pilke, ktora posiada.
+Nazwenictwo klas-klasa nie powinna konczc\yc sie na "er". Popychamy wtedy klasę w kierunku programowania proceduarlnego np.
+"sorter","parser" - klasa byla rzecza, ktorej jedynym zadaniem jest przechowywanie danych
