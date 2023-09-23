@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science, physics and mathematics.
 - 🌱 I’m currently learning French, Chinese and IT stuff.
 - 💞️ I’m looking to collaborate on ... ML projects?
-- 📫 How to reach me ... Don't.
+- 📫 Write me on discord @deptage or on linkedin
 
 <!---
 Deptage/Deptage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
